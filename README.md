@@ -5,7 +5,7 @@
 <li><h3>./</h3></li>    
 		<p><b><i>run_analysis.R</b></i> - R script, tidy_data generator. <br>
 		   <b><i>README.md</b></i>      - this file. <br>
-  	   <b><i>CodeBook.md</b></i>    - discription of project details. <br>
+  	   <b><i>CodeBook.md</b></i>    - description of project details. <br>
        <b><i>tidy_data.txt</b></i>  - project results. </P>
   <ul>
   <li><h3>./UCI HAR Dataset</li></h3>
